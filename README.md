@@ -1,6 +1,7 @@
 # -Memo-Shell-learning-exampleple
 Shell学习的简单脚本，检查磁盘、RAM、CPU和带宽是否超过阈值。  
 **需要额外插件，提示缺什么装什么。**
+[学习参考](http://c.biancheng.net/shell/)
 
 # Tips
 输出特殊符号  
